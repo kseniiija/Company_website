@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+   color: blue;
+}
+
+.information{
+   color:white;
+    font-family: Montserrat;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+    line-height: 200%;
+}
+
+.h3{
+    font-size: 96px;
+
+}
+
+.email{
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+.number{
+    margin-bottom: 30px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0.5;
+    color:rgba(16, 137, 201, 1) ;
+    padding-left: 50px;    
+}
+
+.contact {
+  border: 0;
+  outline: 0;
+  font-size: 1.4rem;
+  color: #ccc;
+  border-bottom: 1px solid rgba(16, 137, 201, 1);
+  margin-bottom: 60px;
+  }
+    

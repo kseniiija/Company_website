@@ -1,0 +1,32 @@
+.hamburger{
+    position: fixed;
+    top: 0;
+    right: -30vw;
+    width: 30vw;
+    height: 100vh;
+    transition:  .5s ease right;
+    background-color: white;   
+}
+.navigation {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  
+   
+}
+.navItem{
+    margin-bottom: 30px;
+    color: rgba(16, 137, 201, 1);
+    font-weight: 700;
+    font-size: 24px;
+  
+}
+.close-menu{
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+.open-hamburger{
+    right: 0;
+}
+

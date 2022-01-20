@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,UAAU,EAAC,KAAK;EAChB,UAAU,EAAC,MAAM;EAChB,WAAW,EAAE,GAAG;EACjB,SAAS,EAAE,IAAI;CAClB;;AACD,AAAA,IAAI,CAAC,IAAI,CAAA;EACL,KAAK,EAAC,OAAqB;EAC3B,eAAe,EAAE,SAAS;CAC7B",
+    "sources": [
+        "ContentBox.module.scss"
+    ],
+    "names": [],
+    "file": "ContentBox.module.css"
+}

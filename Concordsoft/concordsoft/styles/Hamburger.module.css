@@ -1,0 +1,39 @@
+.hamburger {
+  position: fixed;
+  top: 0;
+  right: -30vw;
+  width: 30vw;
+  height: 100vh;
+  -webkit-transition: .5s ease right;
+  transition: .5s ease right;
+  background-color: white;
+}
+
+.navigation {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.navItem {
+  margin-bottom: 30px;
+  color: #1089c9;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.close-menu {
+  text-align: right;
+  padding-right: 30px;
+  padding-top: 30px;
+}
+
+.open-hamburger {
+  right: 0;
+}
+/*# sourceMappingURL=Hamburger.module.css.map */

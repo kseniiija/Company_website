@@ -1,0 +1,12 @@
+.box {
+  background: white;
+  text-align: center;
+  font-weight: 700;
+  font-size: 72px;
+}
+
+.box span {
+  color: #1089c9;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=ContentBox.module.css.map */
